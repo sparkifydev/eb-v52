@@ -13,4 +13,4 @@ source - [BSL-V52](https://github.com/LkPrtctrd/BSL-V52)
 Most of the lobby functionality is already implemented. Some minor features and details may still be unfinished, so feel free to complete or improve them yourself!
 
 
-![Screenshot](prewiew.png)
+![Screenshot](prewiew.jpg)
