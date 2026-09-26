@@ -1,0 +1,70 @@
+{
+  "LoginItems": [        
+       {
+        "Day": 0,
+        "Rewards": [
+        {
+          "ItemType": 4,
+          "Amount": 1,
+          "BrawlerID": [16, 0],
+          "Extra": 29
+        }
+        ]
+       },
+       {
+        "Day": 1,
+        "Rewards": [
+        {
+          "ItemType": 19,
+          "Amount": 1,
+          "BrawlerID": [0, 0],
+          "Extra": 1197
+        }
+        ]
+       },
+       {
+        "Day": 2,
+        "Rewards": [
+        {
+          "ItemType": 1,
+          "Amount": 1000,
+          "BrawlerID": [0, 0],
+          "Extra": 3
+        }
+       ]
+     },
+     {
+        "Day": 3,
+        "Rewards": [
+        {
+          "ItemType": 38,
+          "Amount": 250,
+          "BrawlerID": [0, 0],
+          "Extra": 3
+        }
+       ]
+     },
+     {
+        "Day": 4,
+        "Rewards": [
+        {
+          "ItemType": 41,
+          "Amount": 570,
+          "BrawlerID": [0, 0],
+          "Extra": 3
+        }
+       ]
+     },
+     {
+        "Day": 5,
+        "Rewards": [
+        {
+          "ItemType": 1,
+          "Amount": 500,
+          "BrawlerID": [0, 0],
+          "Extra": 3
+        }
+       ]
+     }
+  ]
+}

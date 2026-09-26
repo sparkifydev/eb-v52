@@ -1,0 +1,30 @@
+{
+  "DropsData": [ 
+    {
+     "Items": [       
+       {
+        "MinFallback": 500,
+        "MaxFallback": 500,
+        "DeliveryID": 22,
+        "DataRef": 0,
+        "ItemID": "RecruitTokens"
+       },   
+       {
+        "MinFallback": 1000,
+        "MaxFallback": 1000,
+        "DeliveryID": 22,
+        "DataRef": 0,
+        "ItemID": "RecruitTokens"
+       },       
+       {
+        "MinFallback": 1000,
+        "MaxFallback": 1000,
+        "DeliveryID": 7,
+        "DataRef": 0,
+        "ItemID": "Coins"
+       }
+       
+     ]  
+    }
+  ]
+}

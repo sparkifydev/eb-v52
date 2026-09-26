@@ -1,0 +1,52 @@
+{
+  "DropsData": [ 
+    {
+     "Items": [       
+       {
+        "MinFallback": 100,
+        "MaxFallback": 500,
+        "DeliveryID": 7,
+        "DataRef": 0,
+        "ItemID": "Coins"
+       },
+       {
+        "MinFallback": 50,
+        "MaxFallback": 120,
+        "DeliveryID": 24,
+        "DataRef": 0,
+        "ItemID": "PowerPoints"
+       },
+       {
+        "MinFallback": 20,
+        "MaxFallback": 200,
+        "DeliveryID": 25,
+        "DataRef": 0,
+        "ItemID": "Bling"
+       },
+       {
+        "MinFallback": 50,
+        "MaxFallback": 200,
+        "DeliveryID": 22,
+        "DataRef": 0,
+        "ItemID": "RecruitTokens"
+       },
+       {
+        "MinFallback": 0,
+        "MaxFallback": 0,
+        "DeliveryID": 11,
+        "DataRef": 28,
+        "ItemID": "OwnedThumbnails"
+       },
+       {
+        "MinFallback": 100,
+        "MaxFallback": 500,
+        "DeliveryID": 7,
+        "DataRef": 0,
+        "ItemID": "Coins"
+       }
+       
+       
+     ]  
+    }
+  ]
+}

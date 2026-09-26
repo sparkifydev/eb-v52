@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: tweetnaclCrypt
+Version: 0.1
+Summary: Python wrapper for TweetNaCl
+Author: Brian Warner, Jan Mojžíš

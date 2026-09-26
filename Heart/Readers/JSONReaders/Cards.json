@@ -1,0 +1,444 @@
+[
+  {
+    "StarPowerCard": [ 76, 135, 162 ],
+    "GadgetCard": [ 255, 288 ],
+    "Brawler": 0,
+    "UnlockCard": 0
+  },
+  {
+    "StarPowerCard": [ 77, 138, 170 ],
+    "GadgetCard": [ 273, 319 ],
+    "Brawler": 1,
+    "UnlockCard": 4
+  },
+  {
+    "StarPowerCard": [ 78, 137, 163 ],
+    "GadgetCard": [ 272, 310 ],
+    "Brawler": 2,
+    "UnlockCard": 8
+  },
+  {
+    "StarPowerCard": [ 79, 150, 172 ],
+    "GadgetCard": [ 245, 316 ],
+    "Brawler": 3,
+    "UnlockCard": 12
+  },
+  {
+    "StarPowerCard": [ 80, 156 ],
+    "GadgetCard": [ 246, 409 ],
+    "Brawler": 4,
+    "UnlockCard": 16
+  },
+  {
+    "StarPowerCard": [ 81, 151, 176 ],
+    "GadgetCard": [ 247, 406 ],
+    "Brawler": 5,
+    "UnlockCard": 20
+  },
+  {
+    "StarPowerCard": [ 82, 158 ],
+    "GadgetCard": [ 250, 293 ],
+    "Brawler": 6,
+    "UnlockCard": 24
+  },
+  {
+    "StarPowerCard": [ 83, 149, 171 ],
+    "GadgetCard": [ 251, 295 ],
+    "Brawler": 7,
+    "UnlockCard": 28
+  },
+  {
+    "StarPowerCard": [ 84, 136 ],
+    "GadgetCard": [ 249, 314 ],
+    "Brawler": 8,
+    "UnlockCard": 32
+  },
+  {
+    "StarPowerCard": [ 85, 155, 173 ],
+    "GadgetCard": [ 258, 294 ],
+    "Brawler": 9,
+    "UnlockCard": 36
+  },
+  {
+    "StarPowerCard": [ 86, 140, 169 ],
+    "GadgetCard": [ 264, 292 ],
+    "Brawler": 10,
+    "UnlockCard": 40
+  },
+  {
+    "StarPowerCard": [ 87, 154, 167 ],
+    "GadgetCard": [ 265, 290 ],
+    "Brawler": 11,
+    "UnlockCard": 44
+  },
+  {
+    "StarPowerCard": [ 88, 143 ],
+    "GadgetCard": [ 243, 286 ],
+    "Brawler": 12,
+    "UnlockCard": 48
+  },
+  {
+    "StarPowerCard": [ 89, 144, 164 ],
+    "GadgetCard": [ 267, 350 ],
+    "Brawler": 13,
+    "UnlockCard": 52
+  },
+  {
+    "StarPowerCard": [ 90, 148 ],
+    "GadgetCard": [ 263, 289 ],
+    "Brawler": 14,
+    "UnlockCard": 56
+  },
+  {
+    "StarPowerCard": [ 91, 152, 174 ],
+    "GadgetCard": [ 268, 291 ],
+    "Brawler": 15,
+    "UnlockCard": 60
+  },
+  {
+    "StarPowerCard": [ 92, 139 ],
+    "GadgetCard": [ 257, 404 ],
+    "Brawler": 16,
+    "UnlockCard": 64
+  },
+  {
+    "StarPowerCard": [ 93, 160 ],
+    "GadgetCard": [ 266, 356 ],
+    "Brawler": 17,
+    "UnlockCard": 68
+  },
+  {
+    "StarPowerCard": [ 94, 157 ],
+    "GadgetCard": [ 260, 313 ],
+    "Brawler": 18,
+    "UnlockCard": 72
+  },
+  {
+    "StarPowerCard": [ 99, 142 ],
+    "GadgetCard": [ 248, 287 ],
+    "Brawler": 19,
+    "UnlockCard": 95
+  },
+  {
+    "StarPowerCard": [ 104, 153 ],
+    "GadgetCard": [ 261, 351 ],
+    "Brawler": 20,
+    "UnlockCard": 100
+  },
+  {
+    "StarPowerCard": [ 109, 159 ],
+    "GadgetCard": [ 252, 352 ],
+    "Brawler": 21,
+    "UnlockCard": 105
+  },
+  {
+    "StarPowerCard": [ 114, 161 ],
+    "GadgetCard": [ 253, 355 ],
+    "Brawler": 22,
+    "UnlockCard": 110
+  },
+  {
+    "StarPowerCard": [ 119, 141, 175 ],
+    "GadgetCard": [ 276, 408 ],
+    "Brawler": 23,
+    "UnlockCard": 115
+  },
+  {
+    "StarPowerCard": [ 124, 147 ],
+    "GadgetCard": [ 242, 348 ],
+    "Brawler": 24,
+    "UnlockCard": 120
+  },
+  {
+    "StarPowerCard": [ 129, 145, 166 ],
+    "GadgetCard": [ 262, 317 ],
+    "Brawler": 25,
+    "UnlockCard": 125
+  },
+  {
+    "StarPowerCard": [ 134, 146, 165 ],
+    "GadgetCard": [ 275, 357, 458 ],
+    "Brawler": 26,
+    "UnlockCard": 130
+  },
+  {
+    "StarPowerCard": [ 168, 181 ],
+    "GadgetCard": [ 259, 318 ],
+    "Brawler": 27,
+    "UnlockCard": 177
+  },
+  {
+    "StarPowerCard": [ 186, 187 ],
+    "GadgetCard": [ 270, 405 ],
+    "Brawler": 28,
+    "UnlockCard": 182
+  },
+  {
+    "StarPowerCard": [ 192, 193 ],
+    "GadgetCard": [ 271, 312 ],
+    "Brawler": 29,
+    "UnlockCard": 188
+  },
+  {
+    "StarPowerCard": [ 198, 199 ],
+    "GadgetCard": [ 274, 459 ],
+    "Brawler": 30,
+    "UnlockCard": 194
+  },
+  {
+    "StarPowerCard": [ 204, 205 ],
+    "GadgetCard": [ 269, 349 ],
+    "Brawler": 31,
+    "UnlockCard": 200
+  },
+  {
+    "StarPowerCard": [ 210, 211 ],
+    "GadgetCard": [ 254, 311 ],
+    "Brawler": 32,
+    "UnlockCard": 206
+  },
+  {
+    "StarPowerCard": [ 222, 223 ],
+    "GadgetCard": [ 256, 354, 486 ],
+    "Brawler": 34,
+    "UnlockCard": 218
+  },
+  {
+    "StarPowerCard": [ 228, 229 ],
+    "GadgetCard": [ 277, 407 ],
+    "Brawler": 35,
+    "UnlockCard": 224
+  },
+  {
+    "StarPowerCard": [ 234, 235 ],
+    "GadgetCard": [ 278, 353 ],
+    "Brawler": 36,
+    "UnlockCard": 230
+  },
+  {
+    "StarPowerCard": [ 240, 241 ],
+    "GadgetCard": [ 244, 315 ],
+    "Brawler": 37,
+    "UnlockCard": 236
+  },
+  {
+    "StarPowerCard": [ 283, 284 ],
+    "GadgetCard": [ 285, 485 ],
+    "Brawler": 38,
+    "UnlockCard": 279
+  },
+  {
+    "StarPowerCard": [ 300, 301 ],
+    "GadgetCard": [ 302, 457 ],
+    "Brawler": 39,
+    "UnlockCard": 296
+  },
+  {
+    "StarPowerCard": [ 307, 308 ],
+    "GadgetCard": [ 309, 488 ],
+    "Brawler": 40,
+    "UnlockCard": 303
+  },
+  {
+    "StarPowerCard": [ 324, 325 ],
+    "GadgetCard": [ 326, 400 ],
+    "Brawler": 41,
+    "UnlockCard": 320
+  },
+  {
+    "StarPowerCard": [ 331, 332 ],
+    "GadgetCard": [ 333, 461 ],
+    "Brawler": 42,
+    "UnlockCard": 327
+  },
+  {
+    "StarPowerCard": [ 338, 339 ],
+    "GadgetCard": [ 340, 403 ],
+    "Brawler": 43,
+    "UnlockCard": 334
+  },
+  {
+    "StarPowerCard": [ 345, 346 ],
+    "GadgetCard": [ 347, 402 ],
+    "Brawler": 44,
+    "UnlockCard": 341
+  },
+  {
+    "StarPowerCard": [ 362, 363 ],
+    "GadgetCard": [ 364, 401 ],
+    "Brawler": 45,
+    "UnlockCard": 358
+  },
+  {
+    "StarPowerCard": [ 369, 370 ],
+    "GadgetCard": [ 371, 463 ],
+    "Brawler": 46,
+    "UnlockCard": 365
+  },
+  {
+    "StarPowerCard": [ 376, 377 ],
+    "GadgetCard": [ 378, 462 ],
+    "Brawler": 47,
+    "UnlockCard": 372
+  },
+  {
+    "StarPowerCard": [ 383, 384 ],
+    "GadgetCard": [ 385, 460 ],
+    "Brawler": 48,
+    "UnlockCard": 379
+  },
+  {
+    "StarPowerCard": [ 390, 391 ],
+    "GadgetCard": [ 392, 490 ],
+    "Brawler": 49,
+    "UnlockCard": 386
+  },
+  {
+    "StarPowerCard": [ 397, 398 ],
+    "GadgetCard": [ 399, 487 ],
+    "Brawler": 50,
+    "UnlockCard": 393
+  },
+  {
+    "StarPowerCard": [ 414, 415 ],
+    "GadgetCard": [ 416, 465 ],
+    "Brawler": 51,
+    "UnlockCard": 410
+  },
+  {
+    "StarPowerCard": [ 421, 422 ],
+    "GadgetCard": [ 423, 489 ],
+    "Brawler": 52,
+    "UnlockCard": 417
+  },
+  {
+    "StarPowerCard": [ 431, 432 ],
+    "GadgetCard": [ 433, 456 ],
+    "Brawler": 53,
+    "UnlockCard": 427
+  },
+  {
+    "StarPowerCard": [ 438, 439 ],
+    "GadgetCard": [ 440, 464 ],
+    "Brawler": 54,
+    "UnlockCard": 434
+  },
+  {
+    "StarPowerCard": [ 452, 453 ],
+    "GadgetCard": [ 454, 455 ],
+    "Brawler": 56,
+    "UnlockCard": 448
+  },
+  {
+    "StarPowerCard": [ 470, 471 ],
+    "GadgetCard": [ 472, 473 ],
+    "Brawler": 57,
+    "UnlockCard": 466
+  },
+  {
+    "StarPowerCard": [ 478, 479 ],
+    "GadgetCard": [ 480, 481 ],
+    "Brawler": 58,
+    "UnlockCard": 474
+  },
+  {
+    "StarPowerCard": [ 495, 496 ],
+    "GadgetCard": [ 497, 498 ],
+    "Brawler": 59,
+    "UnlockCard": 491
+  },
+  {
+    "StarPowerCard": [ 503, 504 ],
+    "GadgetCard": [ 505, 506 ],
+    "Brawler": 60,
+    "UnlockCard": 499
+  },
+  {
+    "StarPowerCard": [ 511, 512 ],
+    "GadgetCard": [ 513, 514 ],
+    "Brawler": 61,
+    "UnlockCard": 507
+  },
+  {
+    "StarPowerCard": [ 519, 520 ],
+    "GadgetCard": [ 521, 522 ],
+    "Brawler": 62,
+    "UnlockCard": 515
+  },
+  {
+    "StarPowerCard": [ 527, 528 ],
+    "GadgetCard": [ 529, 530 ],
+    "Brawler": 63,
+    "UnlockCard": 523
+  },
+  {
+    "StarPowerCard": [ 535, 536 ],
+    "GadgetCard": [ 537, 538 ],
+    "Brawler": 64,
+    "UnlockCard": 531
+  },
+  {
+    "StarPowerCard": [ 543, 544 ],
+    "GadgetCard": [ 545, 546 ],
+    "Brawler": 65,
+    "UnlockCard": 539
+  },
+  {
+    "StarPowerCard": [ 553, 554 ],
+    "GadgetCard": [ 555, 556 ],
+    "Brawler": 66,
+    "UnlockCard": 547
+  },
+  {
+    "StarPowerCard": [ 561, 562 ],
+    "GadgetCard": [ 563, 564 ],
+    "Brawler": 67,
+    "UnlockCard": 557
+  },
+  {
+    "StarPowerCard": [ 569, 570 ],
+    "GadgetCard": [ 571, 572 ],
+    "Brawler": 68,
+    "UnlockCard": 565
+  },
+  {
+    "StarPowerCard": [ 577, 578 ],
+    "GadgetCard": [ 579, 580 ],
+    "Brawler": 69,
+    "UnlockCard": 573
+  },
+  {
+    "StarPowerCard": [ 585, 586 ],
+    "GadgetCard": [ 587, 588 ],
+    "Brawler": 70,
+    "UnlockCard": 581
+  },
+  {
+    "StarPowerCard": [ 593, 594 ],
+    "GadgetCard": [ 595, 596 ],
+    "Brawler": 71,
+    "UnlockCard": 589
+  },
+  {
+    "StarPowerCard": [ 601, 602 ],
+    "GadgetCard": [ 603, 604 ],
+    "Brawler": 72,
+    "UnlockCard": 597
+  },
+  {
+    "StarPowerCard": [ 609, 610 ],
+    "GadgetCard": [ 611, 612 ],
+    "Brawler": 73,
+    "UnlockCard": 605
+  },
+  {
+    "StarPowerCard": [],
+    "GadgetCard": [],
+    "Brawler": 166
+  },
+  {
+    "StarPowerCard": [],
+    "GadgetCard": [],
+    "Brawler": 177
+  }
+]

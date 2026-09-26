@@ -1,0 +1,40 @@
+{
+  "Offers": [
+    {
+      "Rewards": [
+        {
+          "ItemType": 4,
+          "Amount": 1,
+          "BrawlerID": [16, 0],
+          "Extra": 52,
+          "ItemName": "ахуеть",
+          "BrawlerPower": 11
+        }
+      ],
+      "Currency": 0,
+      "Cost": 1,
+      "Time": 869400,
+      "Claim": false,
+      "DailyOffer": false,
+      "OldPrice": 5000,
+      "Text": "чо",
+      "Background": "offer_bgr_mf2023",
+      "Processed": false,
+      "TypeBenefit": 0,
+      "Benefit": 0,
+      "OneTimeOffer": false,
+      "ShopPanelLayout": [0, 0],
+      "ShopStyleSet": [0, 0],
+      "BoxType": 100,
+      "OfferType": 234,
+      "IsForPortalEvent": true,
+      "IsForHorizonEvent": false,
+      "LoadOnStartup": false,
+      "StarrDrops": false,
+      "NeedsBrawler": 0,
+      "UpdateOffers": false,
+      "PortaliumStarrDrop": false
+    }
+  ]
+  
+}

@@ -1,0 +1,2 @@
+class LogicSaveData:
+   pass
