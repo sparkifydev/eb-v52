@@ -1,4 +1,4 @@
-by sparkify, lekma  
+by sparkify, [lekma](https://github.com/LekmaDev)
 source - [BSL-V52](https://github.com/LkPrtctrd/BSL-V52)
 
 ### What works:
